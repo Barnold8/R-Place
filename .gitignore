@@ -1,2 +1,3 @@
 *.lock
-*target/
+r-place/target/
+.vscode
